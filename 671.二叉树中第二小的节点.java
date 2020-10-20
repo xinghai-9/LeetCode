@@ -47,8 +47,9 @@ class Solution {
             return left;
         }
 
-        return Math.min(left, right);
+        return Math.min(left,right);
     }
+
 }
 // @lc code=end
 
